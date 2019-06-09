@@ -3,7 +3,7 @@
 def display_board (board)
   
   board [0]
-puts board
+puts board [0]
 end
 
 display_board(["O", "X", " ", " ", "X", " ", "X", "O", " "])
