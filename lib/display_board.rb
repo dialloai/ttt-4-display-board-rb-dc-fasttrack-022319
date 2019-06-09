@@ -8,4 +8,3 @@ def display_board (board)
 end
 
 display_board(["O", "X", " ", " ", "X", " ", "X", "O", " "])
-board [0] [ O | X |]
