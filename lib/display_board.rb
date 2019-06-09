@@ -4,4 +4,4 @@ def display_board (board)
 puts board
 end
 
-display_board(["X", "X", " ", " ", "X", " ", "X", "O", " "])
+board(["X", "X", " ", " ", "X", " ", "X", "O", " "])
