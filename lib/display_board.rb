@@ -4,4 +4,3 @@ def display_board
  board = [" ", " ", " ", " ", "X ", " ", " ", " ", " "]
 end 
 puts display_board
-display_board
